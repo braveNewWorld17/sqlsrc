@@ -1,0 +1,4 @@
+conn = pymysql.connect(host='localhost',
+                       user='root', password='your_password',
+                       db='test', charset='utf8')
+

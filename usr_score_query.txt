@@ -1,0 +1,5 @@
+select last_name, avg(score), min(score), max(score) 
+from user_score group by 1 order by 3 desc;
+
+select last_name from user_score;
+select distinct(last_name) from user_score;

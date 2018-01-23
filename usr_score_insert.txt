@@ -1,0 +1,5 @@
+INSERT INTO user_score (first_name, last_name, score) VALUES ('keeyong2','han', 3);
+INSERT INTO user_score (first_name, last_name, score) VALUES ('nathan','hou', 6);
+INSERT INTO user_score (first_name, last_name, score) VALUES ('james','sullins', 2);
+INSERT INTO user_score (first_name, last_name, score) VALUES ('paul','williams', 4);
+INSERT INTO user_score (first_name, last_name, score) VALUES ('sarah','williams', 8);

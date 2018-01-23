@@ -1,0 +1,7 @@
+CREATE TABLE USER_SCORE (
+    ID int AUTO_INCREMENT primary key,
+    FIRST_NAME varchar(32),
+    LAST_NAME varchar(32),
+    SCORE int DEFAULT 0,
+    CREATED timestamp DEFAULT CURRENT_TIMESTAMP
+);

@@ -1,0 +1,5 @@
+INSERT INTO user (first_name, last_name) VALUES ('keeyong','han');
+INSERT INTO user (first_name, last_name) VALUES ('nathan','hou');
+INSERT INTO user (first_name, last_name) VALUES ('james','sullins');
+INSERT INTO user (first_name, last_name) VALUES ('paul','williams');
+INSERT INTO user (first_name, last_name) VALUES ('sarah','williams');
